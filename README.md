@@ -1,2 +1,4 @@
 # LightsOut
-Simple unity game'
+Simple unity game on theme 'every 13 seconds'.
+
+
